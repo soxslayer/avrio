@@ -32,3 +32,6 @@
 *.d
 *.map
 environment.mk
+
+# Other artifacts
+*.swp
